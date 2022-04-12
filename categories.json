@@ -1,0 +1,8 @@
+[
+	{"id":1,"short_name":"C1","name":"ΣΗΔΑΕΔ","url":"https://it.auth.gr/el/contact","desc":"ΣΥΣΤΗΜΑ ΗΛΕΚΤΡΟΝΙΚΗΣ ΔΙΑΚΙΝΗΣΗΣ ΑΛΛΗΛΟΓΡΑΦΙΑΣ ΕΔ","icon":"envelope"},
+	{"id":5,"short_name":"C1","name":"ΠΥΡΣΕΙΑ","url":"https://it.auth.gr/el/contact","desc":"ΔΙΑΚΛΑΔΙΚΟ ΣΥΣΤΗΜΑ ΔΙΑΚΙΝΗΣΗΣ ΑΛΛΗΓΡΑΦΙΑΣ ΚΑΙ ΑΝΑΦΟΡΩΝ","icon":"envelope"},
+	{"id":2,"short_name":"C2","name":"ΤΗΛΕΦΩΝΙΚΟΣ ΚΑΤΑΛΑΓΟΣ","url":"https://it.auth.gr/el/contact","desc":"ΤΗΛΕΦΩΝΙΚΟΣ ΚΑΤΑΛΟΓΟΣ ΣΤΡΑΤΟΥ ΞΥΡΑΣ","icon":"earphone"},
+	{"id":3,"short_name":"C3","name":"ΠΡΟΤΥΠΑ ΕΓΓΡΑΦΩΝ","url":"http://localhost:3000/documents.html","desc":"ΠΡΩΤΥΠΑ ΕΓΓΡΑΦΩΝ ΑΝΑ ΚΑΤΗΓΟΡΙΑ","icon":"folder-open"},
+	{"id":4,"short_name":"C4","name":"ΒΙΒΛΙΟΘΗΚΗ","url":"https://it.auth.gr/el/contact","desc":"ΚΑΝΟΝΙΣΜΟΙ ΔΙΑΤΑΓΕΣ ΝΟΜΟΙ","icon":"book"},
+	{"id":6,"short_name":"C4","name":"ΕΝΗΜΕΡΩΣΕΙΣ","url":"https://it.auth.gr/el/contact","desc":"ΤΕΛΕΥΤΑΙΑ ΝΕΑ","icon":"info-sign"}
+]
